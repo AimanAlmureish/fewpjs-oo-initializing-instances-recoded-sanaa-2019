@@ -12,3 +12,10 @@ class Lunch {
     this.soup = soup;
   }
 }
+
+class Lunch {
+  constructor(salad,soup){
+    this.salad = salad;
+    this.soup = soup;
+  }
+}
